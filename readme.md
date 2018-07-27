@@ -11,5 +11,5 @@ First started from a [jrobichaud's gist](https://gist.github.com/jrobichaud/6f2f
 
 ## License
 
-[MIT](LICENSE.md) © [Jules Robichaud](https://github.com/jrobichaud)
+[MIT](LICENSE.md) © [Jules Robichaud-Gagnon](https://github.com/jrobichaud)
 

@@ -4,3 +4,7 @@
 
 First started from a [jrobichaud's gist](https://gist.github.com/jrobichaud/6f2f31fc1584d70eec3335ce956fba65)
 
+## License
+
+[MIT](LICENSE.md) © [Gabriel Le Breton](https://gableroux.com)
+

@@ -5,7 +5,7 @@ python:
   - 3.4
   - 3.3
 script:
-  - python method_mocking_example.py
+  - pytest --cov --cov-report term:skip-covered
 after_success:
   - codecov
 

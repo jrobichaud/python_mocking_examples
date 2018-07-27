@@ -6,3 +6,6 @@ python:
   - 3.3
 script:
   - python method_mocking_example.py
+after_success:
+  - codecov
+

@@ -8,4 +8,3 @@ script:
   - pytest --cov --cov-report term:skip-covered
 after_success:
   - codecov
-
